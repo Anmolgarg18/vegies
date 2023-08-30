@@ -1,0 +1,24 @@
+.mainBox{
+    width:100vh;
+    height:fit-content;
+    border:1px solid black;
+    border-radius: 5%;
+    margin:auto;
+    padding:20px auto;
+    background-color: hsla(172, 81%, 55%, 0.7);
+}
+.box{
+    width:80vh;
+    padding:15px;
+    margin:auto;
+}
+form{
+    margin-top:30px;
+}
+.btnSize{
+    width:70vh;
+}
+.text{
+    font-size: 0.9rem;
+    padding-right:5px;
+}
